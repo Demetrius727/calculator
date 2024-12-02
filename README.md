@@ -1,6 +1,6 @@
 # simple-calculator
 
-Projeto de uma calculadora que eu desenvolvi através do curso Matheus Battisti na Udemy.
+Projeto de uma calculadora que desenvolvi através do curso Matheus Battisti na Udemy.
 
 - REACT
 - JAVASCRIPT
