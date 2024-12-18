@@ -1,8 +1,8 @@
-# simple-calculator
+# Calculator
 
-Projeto de uma calculadora que desenvolvi através do curso Matheus Battisti na Udemy.
+Projeto de uma Calculadora que desenvolvi através do curso Matheus Battisti na Udemy.
 
 - REACT
 - JAVASCRIPT
 - HTML
-- CSS
+- SCSS
